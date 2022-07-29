@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TrigonometricFunctionsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-10-06T09:10:44" hostname="i101922466" time="0.031">
+  <properties/>
+  <testcase name="testLegalArgumentsCos()" classname="TrigonometricFunctionsTest" time="0.004"/>
+  <testcase name="testLegalArgumentsCot()" classname="TrigonometricFunctionsTest" time="0.004"/>
+  <testcase name="testLegalArgumentsCsc()" classname="TrigonometricFunctionsTest" time="0.002"/>
+  <testcase name="testLegalArgumentsSec()" classname="TrigonometricFunctionsTest" time="0.002"/>
+  <testcase name="testLegalArgumentsSin()" classname="TrigonometricFunctionsTest" time="0.004"/>
+  <testcase name="testLegalArgumentsTan()" classname="TrigonometricFunctionsTest" time="0.002"/>
+  <testcase name="testIllegalArgumentsTrigonometricFunctions()" classname="TrigonometricFunctionsTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NaturalLogarithmTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-06T09:10:43" hostname="i101922466" time="0.104">
+  <properties/>
+  <testcase name="testLegalArgumentsNaturalLog()" classname="NaturalLogarithmTest" time="0.093"/>
+  <testcase name="testIllegalArgumentsNaturalLog()" classname="NaturalLogarithmTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+LogarithmFunctions.java
+ LogarithmFunctions
+Main.java
+ Main
+Writer.java
+ Writer
+NaturalLogarithm.java
+ NaturalLogarithm
+Sinus.java
+ Sinus
+Cosine.java
+ Cosine
+FunctionSystem.java
+ FunctionSystem
+TrigonometricFunctions.java
+ TrigonometricFunctions

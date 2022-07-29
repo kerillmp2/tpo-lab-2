@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CosineTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-06T09:10:43" hostname="i101922466" time="1.196">
+  <properties/>
+  <testcase name="testIllegalArgumentsCosineModule()" classname="CosineTest" time="1.163"/>
+  <testcase name="testIllegalArgumentsCosine()" classname="CosineTest" time="0.002"/>
+  <testcase name="testLegalArgumentsCosine()" classname="CosineTest" time="0.003"/>
+  <testcase name="testLegalArgumentsCosineModule()" classname="CosineTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
